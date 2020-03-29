@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\Debug\Lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3.map</FILE>
+  <FILE>Lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Table2><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>18</LINE></Table2>
+  <Table><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>22</LINE></Table>
+  <MAIN><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>29</LINE></MAIN>
+  <LOAD_SRAM_ADDRESS><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>73</LINE></LOAD_SRAM_ADDRESS>
+  <END><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>60</LINE></END>
+  <LOAD_IO_ADDRESS><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>64</LINE></LOAD_IO_ADDRESS>
+  <INIT_EBI><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>82</LINE></INIT_EBI>
+  <DELAY_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>114</LINE></DELAY_10MS>
+  <LOOP1><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>122</LINE></LOOP1>
+  <CHECK_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>128</LINE></CHECK_LOOP>
+  <DELAY_10MS_END><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>135</LINE></DELAY_10MS_END>
+  <DELAY_X_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>141</LINE></DELAY_X_10MS>
+  <END_DELAY_X_WO_POP><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>157</LINE></END_DELAY_X_WO_POP>
+  <LOOP_TEST><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>147</LINE></LOOP_TEST>
+  <END_DELAY_X_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>154</LINE></END_DELAY_X_10MS>
+  <LOAD_TABLE><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>160</LINE></LOAD_TABLE>
+  <LOAD_TABLE_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>173</LINE></LOAD_TABLE_LOOP>
+  <LOAD_TABLE_CHECK_CNT><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>178</LINE></LOAD_TABLE_CHECK_CNT>
+  <CHECK_HIGH_BYTE><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>184</LINE></CHECK_HIGH_BYTE>
+  <LOAD_TABLE_END><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>191</LINE></LOAD_TABLE_END>
+  <READ_BACK_DATA><FILE>C:\Users\Zachary\Documents\3744\Lab3\Lab3\Lab3\main.asm</FILE><LINE>197</LINE></READ_BACK_DATA>
+ </LABELS>
+</ASSEMBLER_INFO>

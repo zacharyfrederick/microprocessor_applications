@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\Debug\LabQuiz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LabQuiz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LabQuiz.map</FILE>
+  <FILE>LabQuiz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RXC_ISR><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>129</LINE></RXC_ISR>
+  <PORT_INTR><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>181</LINE></PORT_INTR>
+  <DEBOUNCE_ISR><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>193</LINE></DEBOUNCE_ISR>
+  <MAIN><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>26</LINE></MAIN>
+  <INIT_TC_DB><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>165</LINE></INIT_TC_DB>
+  <USART_INIT><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>69</LINE></USART_INIT>
+  <END><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>66</LINE></END>
+  <OUT_CHAR><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>109</LINE></OUT_CHAR>
+  <LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>114</LINE></LOOP>
+  <ENABLE_RED><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>155</LINE></ENABLE_RED>
+  <ENABLE_GREEN><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>150</LINE></ENABLE_GREEN>
+  <ENABLE_BLUE><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>145</LINE></ENABLE_BLUE>
+  <END_RXC><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>160</LINE></END_RXC>
+  <END_ISR><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>222</LINE></END_ISR>
+  <INCR_COUNT><FILE>C:\Users\Zachary\Documents\3744\Lab4\LabQuiz\LabQuiz\main.asm</FILE><LINE>215</LINE></INCR_COUNT>
+ </LABELS>
+</ASSEMBLER_INFO>

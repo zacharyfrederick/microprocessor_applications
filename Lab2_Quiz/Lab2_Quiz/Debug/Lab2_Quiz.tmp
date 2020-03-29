@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\Debug\Lab2_Quiz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2_Quiz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2_Quiz.map</FILE>
+  <FILE>Lab2_Quiz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>16</LINE></MAIN>
+  <MAIN_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>24</LINE></MAIN_LOOP>
+  <S1_PRESSED><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>34</LINE></S1_PRESSED>
+  <BOUNCE_SWITCH><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>46</LINE></BOUNCE_SWITCH>
+  <WAIT_FOR_RELEASE_S1><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>37</LINE></WAIT_FOR_RELEASE_S1>
+  <DELAY_X_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>81</LINE></DELAY_X_10MS>
+  <DELAY_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>54</LINE></DELAY_10MS>
+  <LOOP1><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>62</LINE></LOOP1>
+  <CHECK_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>68</LINE></CHECK_LOOP>
+  <DELAY_10MS_END><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>75</LINE></DELAY_10MS_END>
+  <END_DELAY_X_WO_POP><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>97</LINE></END_DELAY_X_WO_POP>
+  <LOOP_TEST><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>87</LINE></LOOP_TEST>
+  <END_DELAY_X_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab2_Quiz\Lab2_Quiz\main.asm</FILE><LINE>94</LINE></END_DELAY_X_10MS>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Debug\Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>24</LINE></MAIN>
+  <PORT_INTR><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>85</LINE></PORT_INTR>
+  <DEBOUNCE_ISR><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>113</LINE></DEBOUNCE_ISR>
+  <INIT_TC_DB><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>97</LINE></INIT_TC_DB>
+  <END><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>74</LINE></END>
+  <INCR_COUNT><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>133</LINE></INCR_COUNT>
+  <END_ISR><FILE>C:\Users\Zachary\Documents\3744\Lab4\Lab4_1\Lab4_1\Lab4_2.asm</FILE><LINE>140</LINE></END_ISR>
+ </LABELS>
+</ASSEMBLER_INFO>

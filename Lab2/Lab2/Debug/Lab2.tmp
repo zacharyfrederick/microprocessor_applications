@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Debug\Lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2.map</FILE>
+  <FILE>Lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>32</LINE></MAIN>
+  <MAIN_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>47</LINE></MAIN_LOOP>
+  <S1_PRESSED><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>59</LINE></S1_PRESSED>
+  <S2_PRESSED><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>71</LINE></S2_PRESSED>
+  <BOUNCE_SWITCH><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>83</LINE></BOUNCE_SWITCH>
+  <WAIT_FOR_RELEASE_S1><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>62</LINE></WAIT_FOR_RELEASE_S1>
+  <WAIT_FOR_RELEASE_S2><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>74</LINE></WAIT_FOR_RELEASE_S2>
+  <PLAY_MODE><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>90</LINE></PLAY_MODE>
+  <DELAY_X_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>152</LINE></DELAY_X_10MS>
+  <START_ANIM><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>94</LINE></START_ANIM>
+  <ANIM_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>98</LINE></ANIM_LOOP>
+  <PLAY_MODE_END><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>111</LINE></PLAY_MODE_END>
+  <WAIT_FOR_RELEASE_PLAY><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>114</LINE></WAIT_FOR_RELEASE_PLAY>
+  <DELAY_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>125</LINE></DELAY_10MS>
+  <LOOP1><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>133</LINE></LOOP1>
+  <CHECK_LOOP><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>139</LINE></CHECK_LOOP>
+  <DELAY_10MS_END><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>146</LINE></DELAY_10MS_END>
+  <END_DELAY_X_WO_POP><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>168</LINE></END_DELAY_X_WO_POP>
+  <LOOP_TEST><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>158</LINE></LOOP_TEST>
+  <END_DELAY_X_10MS><FILE>C:\Users\Zachary\Documents\3744\Lab2\Lab2\Lab2_4.asm</FILE><LINE>165</LINE></END_DELAY_X_10MS>
+ </LABELS>
+</ASSEMBLER_INFO>
